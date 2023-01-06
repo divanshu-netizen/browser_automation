@@ -14,6 +14,7 @@ Task:
 
 Prerequisite:
 
+Following language, tool, browser, webdriver should be installed & running on your local system
 1. Python3
 2. IDE like PyCharm or VS-Code
 3. Browser like Chrome, Firefox, Edge, Safari etc
